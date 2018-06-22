@@ -1,0 +1,25 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "lib/client/package.json",
+        "lib/components/error/package.json",
+        "lib/components/fold/package.json",
+        "lib/components/link/package.json",
+        "lib/components/loader/package.json",
+        "lib/components/picture/package.json",
+        "lib/components/root/package.json",
+        "lib/components/route/package.json",
+        "lib/components/transition/package.json",
+        "lib/libs/ConnectedRouter/package.json",
+        "lib/libs/api/package.json",
+        "lib/libs/network/package.json",
+        "lib/libs/storage/package.json",
+        "lib/libs/workbox-sw/package.json",
+        "lib/server/package.json",
+        "lib/utils/package.json",
+        "package.json"
+      ]
+    }
+  }
+}
